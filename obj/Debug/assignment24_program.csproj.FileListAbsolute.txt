@@ -1,0 +1,11 @@
+C:\data\assignment24_program\assignment24_program\bin\Debug\assignment24_program.exe.config
+C:\data\assignment24_program\assignment24_program\bin\Debug\assignment24_program.exe
+C:\data\assignment24_program\assignment24_program\bin\Debug\assignment24_program.pdb
+C:\data\assignment24_program\assignment24_program\bin\Debug\Employee_assignment24.dll
+C:\data\assignment24_program\assignment24_program\bin\Debug\Employee_assignment24.pdb
+C:\data\assignment24_program\assignment24_program\obj\Debug\assignment24_program.csproj.AssemblyReference.cache
+C:\data\assignment24_program\assignment24_program\obj\Debug\assignment24_program.csproj.SuggestedBindingRedirects.cache
+C:\data\assignment24_program\assignment24_program\obj\Debug\assignment24_program.csproj.CoreCompileInputs.cache
+C:\data\assignment24_program\assignment24_program\obj\Debug\assignment24_program.csproj.CopyComplete
+C:\data\assignment24_program\assignment24_program\obj\Debug\assignment24_program.exe
+C:\data\assignment24_program\assignment24_program\obj\Debug\assignment24_program.pdb
